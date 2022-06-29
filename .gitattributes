@@ -1,1 +1,2 @@
 *.docx diff=pandoc
+*.doc diff=pandoc
